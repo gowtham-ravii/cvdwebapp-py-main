@@ -141,5 +141,8 @@ Feature: slope, Score: 0.04946
 Feature: ca, Score: 0.17047
 Feature: thal, Score: 0.09600
 ![image](https://user-images.githubusercontent.com/100552250/177740982-dd0e44d7-e2c8-4174-9290-ef15d0657c6a.png)
-AND WE WILL HAVE OUR OUTPUT IN THE FORM OF FLASK AND THIS IS THE PREDICTION
+AND WE WILL HAVE OUR OUTPUT IN THE FORM OF FLASK AND THE SCREENSHOTS OF THE PREDICTED WEBPAGE ARE ATTACHED FOR REFRENCES.
+![2022-07-07](https://user-images.githubusercontent.com/100552250/177744616-83ec9f99-1adb-46e1-8c96-115183272894.png)
+![2022-07-07 (1)](https://user-images.githubusercontent.com/100552250/177744710-6254bb7a-4970-4450-9ee8-792c5422304a.png)
+THANK YOU
 
