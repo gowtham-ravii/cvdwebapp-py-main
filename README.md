@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# Heart-Disease-Prediction
 Cardiovascular diseases (which often leads to heart failures) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of global deaths.
 The dataset consists of 12 variables/features, and 1 output variable/target variable. Let us examine the role of each feature in determining if a person is likely to have heart failure or not:
 
@@ -21,27 +21,45 @@ Step 3: Data Cleaning and EDA
 I use Matplotlib to visualize the distribution of the target variable (Death_event). From the visualization, we can see that a greater percentage of the patients had a failed heart.
 Hera are the exploratory analysis:
 ![image](https://user-images.githubusercontent.com/100552250/177739439-2f277368-bf77-40cc-b9ac-305134cbc921.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739482-4b72a19d-695a-4308-bfb2-ab96922ec19d.png)
+
 # Min, max and average of the age variable:
 Min age:  29
 Max age:  77
 Average age:  54.43333333333333
 ![image](https://user-images.githubusercontent.com/100552250/177739680-86bde4c6-c8da-4286-bdf0-3e7c61f1d340.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739733-93221196-cf8c-4347-968e-03de91033416.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739754-f075c081-68c4-457b-af1e-0ba0df0be9b4.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739809-784b185b-6383-4c2f-b6c9-41f8eae22b6a.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739830-a41fb6f1-8fa8-427a-b799-e72ce0119a08.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739853-7f1d76d4-f013-4261-8396-1c0c7bccd2d5.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739885-a3c9e71b-e96b-4cbb-833f-e5bc949215e8.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177739929-40de0793-47bb-4f7d-8642-b9454f4fad64.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740055-535c60f2-3db9-4cf0-8e40-3d93e5740ba4.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740089-6a3f27b6-63bc-404d-9c9f-14db974d4da1.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740131-cb9ef812-79b3-4e02-9ef7-f0ca418313e0.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740163-ae97b56a-f818-4de4-8768-2ef653b32b08.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740189-39a3e34b-87d3-4103-b82c-81c55dd90cd8.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740242-08d3a93f-c2c0-4156-8427-bb2084b8b396.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740280-0ad2cec1-e7a8-40a3-9198-c75d4fcafb59.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740332-b1487e87-4a8e-4e8b-96ac-bd95e184836b.png)
+
 ![image](https://user-images.githubusercontent.com/100552250/177740389-b4768045-6cad-4b64-9515-30b950a2fc99.png)
 Modeling
 For the model development part, I will use the following models: i) support vector macine, ii) random forest, iii) Ada Boost, iv) Gradient boosting for evaluating cardiovacular risk prediction using set of predictor variables defined/examined above.
@@ -142,7 +160,11 @@ Feature: ca, Score: 0.17047
 Feature: thal, Score: 0.09600
 ![image](https://user-images.githubusercontent.com/100552250/177740982-dd0e44d7-e2c8-4174-9290-ef15d0657c6a.png)
 AND WE WILL HAVE OUR OUTPUT IN THE FORM OF FLASK AND THE SCREENSHOTS OF THE PREDICTED WEBPAGE ARE ATTACHED FOR REFRENCES.
+BEFORE INPUT
 ![2022-07-07](https://user-images.githubusercontent.com/100552250/177744616-83ec9f99-1adb-46e1-8c96-115183272894.png)
+
+AFTER INPUT
 ![2022-07-07 (1)](https://user-images.githubusercontent.com/100552250/177744710-6254bb7a-4970-4450-9ee8-792c5422304a.png)
+
 THANK YOU
 
